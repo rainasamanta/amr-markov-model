@@ -1,6 +1,6 @@
 # Calibrated Markov Model of Antibiotic Resistance
 
-An end-to-end antibiotic resistance project: surveillance data preparation, a two-state Markov model, calibration with a range of good fits, a comparison of seven prescribing strategies, and a cost and sensitivity analysis for a hospital stewardship committee.
+An end-to-end antibiotic resistance project: surveillance data preparation, a two-state Markov model, calibration with a range of good fits, a comparison of seven prescribing strategies, and a cost and sensitivity analysis.
 
 ## Dataset
 
